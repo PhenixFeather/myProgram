@@ -1,2 +1,2 @@
-# Python Codes
-本人用python实现的一些程序
+# myProgram
+本人实现的一些程序
